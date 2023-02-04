@@ -57,11 +57,12 @@
 ## SOFTWARE
 
 - [ ] SATS
+- [ ] GHCM
 
 ## HARDWARE
 
 - [x] 8 bit computer
-- [ ] Isolated power switchs modules
+- [ ] Isolated power switches
 - [ ] Isolated power meeter
 - [ ] Isolated power sources
 - [ ] ESC
