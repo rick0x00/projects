@@ -77,3 +77,7 @@ list of my tools to assist me in making hardwares (projects under development)
 - [ ] Open ESC
 - [ ] Open BMS
 - [ ] Open VRM
+
+## OF-TOPIC
+
+- [x] [status_bar](https://github.com/rick0x00/status_bar) - shell status(progress and task) bar
