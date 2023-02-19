@@ -25,6 +25,8 @@
 - [ ] srv_backup
 - [ ] srv_cluster
 - [ ] srv_containers
+- [ ] srv_email
+- [ ] srv_ldap
 
 - [ ] srv_git
 - [ ] srv_netbox
@@ -36,6 +38,7 @@
 - [ ] srv_speedtest
 - [ ] srv_simet
 - [ ] srv_nextcloud
+- [ ] srv_wordpress
 
 ### Network
 
@@ -65,4 +68,6 @@
 - [ ] Isolated power switches
 - [ ] Isolated power meeter
 - [ ] Isolated power sources
-- [ ] ESC
+- [ ] Open ESC
+- [ ] Open BMS
+- [ ] Open VRM
