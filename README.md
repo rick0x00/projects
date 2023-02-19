@@ -4,6 +4,8 @@
 
 ### Servers
 
+list of my tools to assist me in making servers (projects under development)
+
 - [x] srv_dns
 - [ ] srv_files
 - [ ] srv_logs
@@ -42,6 +44,8 @@
 
 ### Network
 
+list of my tools to assist me in making networks (projects under development)
+
 - [ ] net_dhcp
 - [ ] net_nat
 - [x] net_cgnat
@@ -63,6 +67,8 @@
 - [ ] GHCM
 
 ## HARDWARE
+
+list of my tools to assist me in making hardwares (projects under development)
 
 - [x] 8 bit computer
 - [ ] Isolated power switches
