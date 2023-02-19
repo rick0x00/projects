@@ -54,7 +54,7 @@
 - [ ] net_stack
 - [ ] net_fail-over
 - [ ] net_load-balance
-- [ ] net_link-agregation
+- [ ] net_link-aggregation
 - [ ] net_mpls
 
 ## SOFTWARE
