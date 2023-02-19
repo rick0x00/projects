@@ -70,7 +70,7 @@ list of my tools to assist me in making networks (projects under development)
 
 list of my tools to assist me in making hardwares (projects under development)
 
-- [x] 8 bit computer
+- [x] [8 bit computer](https://github.com/rick0x00/8bit-computer)
 - [ ] Isolated power switches
 - [ ] Isolated power meeter
 - [ ] Isolated power sources
