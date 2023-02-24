@@ -63,6 +63,7 @@ list of my tools to assist me in making networks (projects under development)
 
 ## SOFTWARE
 
+- [x] [shell_tools](https://github.com/rick0x00/shell_tools) - Scripts for help in the creation shell scripts
 - [ ] SATS
 - [ ] GHCM
 
@@ -77,7 +78,3 @@ list of my tools to assist me in making hardwares (projects under development)
 - [ ] Open ESC
 - [ ] Open BMS
 - [ ] Open VRM
-
-## OF-TOPIC
-
-- [x] [status_bar](https://github.com/rick0x00/status_bar) - shell status(progress and task) bar
