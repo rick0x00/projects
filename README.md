@@ -6,7 +6,7 @@
 
 list of my tools to assist me in making servers (projects under development)
 
-- [x] srv_dns
+- [x] [srv_dns](https://github.com/rick0x00/srv_dns)
 - [ ] srv_files
 - [ ] srv_logs
 - [ ] srv_monitors
