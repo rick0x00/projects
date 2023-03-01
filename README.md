@@ -32,7 +32,7 @@ list of my tools to assist me in making servers (projects under development)
 
 - [ ] srv_git
 - [ ] srv_netbox
-- [ ] srv_phpipam
+- [ ] [srv_phpipam](https://github.com/rick0x00/srv_phpipam) - Tool to simplify installation of phpIPAM Server
 - [ ] srv_glpi
 - [ ] srv_otrs
 - [ ] srv_proxmox
