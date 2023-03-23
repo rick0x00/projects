@@ -46,8 +46,8 @@ list of my tools to assist me in making servers (projects under development)
 list of my tools to assist me in making networks (projects under development)
 
 - [ ] net_dhcp
-- [ ] net_nat
-- [x] net_cgnat
+- [x] [net_nat](https://github.com/rick0x00/net_nat) - Network Address Translation
+- [x] [net_cgnat](https://github.com/rick0x00/net_cgnat) - Network Carrier-grade NAT
 - [ ] net_ospf
 - [ ] net_bgp
 - [ ] net_firewall
