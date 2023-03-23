@@ -30,10 +30,10 @@ I'm developing projects to help me and simplify the installation and configurati
 - [ ] srv_cluster
 - [ ] srv_containers
 - [ ] srv_email
-- [ ] srv_ldap
 - [ ] srv_git
 - [ ] srv_netbox
 - [x] [srv_phpipam](https://github.com/rick0x00/srv_phpipam) - Tool to simplify installation of phpIPAM Server
+- [ ] srv_phpldapadmin
 - [ ] srv_glpi
 - [ ] srv_otrs
 - [ ] srv_proxmox
