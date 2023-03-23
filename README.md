@@ -2,13 +2,11 @@
 
 This repository contains a list of computer skills that I have had professional experience with.
 
-I'm developing projects to simplify the installation and configuration according to my preferences.
+I'm developing projects to help me and simplify the installation and configuration according to my preferences.
 
 ## INFRASTRUCTURE
 
 ### Servers
-
-list of my tools to assist me in making servers (projects under development)
 
 - [x] [srv_dns](https://github.com/rick0x00/srv_dns) - My script to help in creation of DNS servers
 - [ ] srv_files
@@ -47,8 +45,6 @@ list of my tools to assist me in making servers (projects under development)
 
 ### Network
 
-list of my tools to assist me in making networks (projects under development)
-
 - [ ] net_dhcp
 - [x] [net_nat](https://github.com/rick0x00/net_nat) - Network Address Translation
 - [x] [net_cgnat](https://github.com/rick0x00/net_cgnat) - Network Carrier-grade NAT
@@ -71,8 +67,6 @@ list of my tools to assist me in making networks (projects under development)
 - [ ] GHCM
 
 ## HARDWARE
-
-list of my tools to assist me in making hardwares (projects under development)
 
 - [x] [8 bit computer](https://github.com/rick0x00/8bit-computer)
 - [ ] Isolated power switches
