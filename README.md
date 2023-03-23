@@ -1,5 +1,9 @@
 # My Portfolio Projects
 
+This repository contains a list of computer skills that I have had professional experience with.
+
+I'm developing projects to simplify the installation and configuration according to my preferences.
+
 ## INFRASTRUCTURE
 
 ### Servers
