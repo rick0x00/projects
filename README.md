@@ -9,7 +9,7 @@ I'm developing projects to help me and simplify the installation and configurati
 ### Servers
 
 - [x] [srv_dns](https://github.com/rick0x00/srv_dns) - My script to help in creation of DNS servers
-- [ ] srv_files
+- [x] [srv_files](https://gitlab.com/rick0x00/srv_files) - My Tool to Create File servers
 - [ ] srv_logs
 - [ ] srv_monitors
 - [ ] srv_ad-dc
