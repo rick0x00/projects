@@ -35,6 +35,7 @@
 - [ ] srv_simet
 - [ ] srv_nextcloud
 - [ ] srv_wordpress
+- [ ] srv_avahi
 
 ### Network
 
