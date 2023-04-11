@@ -69,6 +69,7 @@
 - [ ] VRM
 - [ ] Pre Amplifier
 - [ ] Sound Amplifier
+- [ ] Sound DAC
 - [ ] Power Amplifier
 - [ ] Multiplexer
 - [ ] Demultiplexer
