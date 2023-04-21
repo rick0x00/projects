@@ -7,7 +7,6 @@
 - [ ] srv_logs
 - [ ] srv_monitors
 - [ ] srv_ad-dc
-- [ ] srv_ldap
 - [ ] srv_proxy
 - [ ] srv_web
 - [ ] srv_db

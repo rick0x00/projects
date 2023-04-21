@@ -10,6 +10,7 @@ I'm developing projects to help me and simplify the installation and configurati
 
 - [x] [srv_dns](https://github.com/rick0x00/srv_dns) - My script to help in creation of DNS servers
 - [x] [srv_files](https://github.com/rick0x00/srv_files) - My Tool to Create File servers
+- [x] [srv_ldap](https://github.com/rick0x00/srv_ldap) - My script to help in creation of ldap server
 - [x] [srv_phpipam](https://github.com/rick0x00/srv_phpipam) - Tool to simplify installation of phpIPAM Server
 
 ### Network
