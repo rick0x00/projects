@@ -5,7 +5,6 @@
 ### Servers
 
 - [ ] srv_logs
-- [ ] srv_monitors
 - [ ] srv_ad-dc
 - [ ] srv_proxy
 - [ ] srv_web

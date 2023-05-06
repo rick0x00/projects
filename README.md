@@ -12,6 +12,7 @@ I'm developing projects to help me and simplify the installation and configurati
 - [x] [srv_files](https://github.com/rick0x00/srv_files) - My Tool to Create File servers
 - [x] [srv_ldap](https://github.com/rick0x00/srv_ldap) - My script to help in creation of LDAP Server
 - [x] [srv_phpipam](https://github.com/rick0x00/srv_phpipam) - Tool to simplify installation of phpIPAM Server
+- [x] [srv_monitoring](https://github.com/rick0x00/srv_monitoring) - Tool to simplify installation of monitoring servers
 
 ### Network
 
