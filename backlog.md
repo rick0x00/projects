@@ -9,7 +9,6 @@
 - [ ] srv_proxy
 - [ ] srv_web
 - [ ] srv_db
-- [ ] srv_vpn
 - [ ] srv_ipsec
 - [ ] srv_rpki
 - [ ] srv_tr-069
@@ -25,6 +24,7 @@
 - [ ] srv_git
 - [ ] srv_netbox
 - [ ] srv_phpldapadmin
+- [ ] srv_lam (LDAP Account Manager)
 - [ ] srv_glpi
 - [ ] srv_otrs
 - [ ] srv_proxmox
