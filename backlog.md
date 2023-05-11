@@ -23,6 +23,7 @@
 - [ ] srv_containers
 - [ ] srv_email
 - [ ] srv_git
+- [ ] srv_apache_guacamole
 - [ ] srv_netbox
 - [ ] srv_phpldapadmin
 - [ ] srv_lam (LDAP Account Manager)
