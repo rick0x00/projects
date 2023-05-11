@@ -15,6 +15,7 @@
 - [ ] srv_pppoe
 - [ ] srv_radius
 - [ ] srv_email
+- [ ] srv_vnc
 - [ ] srv_pxe
 - [ ] srv_ntp
 - [ ] srv_backup
