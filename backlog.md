@@ -14,6 +14,9 @@
 - [ ] srv_tr-069
 - [ ] srv_pppoe
 - [ ] srv_radius
+
+- [ ] srv_netflow
+
 - [ ] srv_email
 - [ ] srv_vnc
 - [ ] srv_pxe
