@@ -27,8 +27,9 @@
 - [ ] srv_netbox
 - [ ] srv_phpldapadmin
 - [ ] srv_lam (LDAP Account Manager)
-- [ ] srv_glpi
-- [ ] srv_otrs
+
+- [ ] srv_itsm(Information Technology Service Management)
+
 - [ ] srv_proxmox
 - [ ] srv_omv
 - [ ] srv_speedtest
