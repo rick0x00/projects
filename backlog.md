@@ -29,8 +29,9 @@
 - [ ] srv_git
 - [ ] srv_apache_guacamole
 - [ ] srv_netbox
-- [ ] srv_phpldapadmin
-- [ ] srv_lam (LDAP Account Manager)
+
+- [ ] srv_ldap_manager
+
 
 - [ ] srv_itsm(Information Technology Service Management)
 
