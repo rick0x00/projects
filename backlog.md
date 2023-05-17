@@ -32,9 +32,6 @@
 
 - [ ] srv_ldap_manager
 
-
-- [ ] srv_itsm(Information Technology Service Management)
-
 - [ ] srv_proxmox
 - [ ] srv_omv
 - [ ] srv_speedtest
