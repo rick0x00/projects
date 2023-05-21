@@ -1,4 +1,4 @@
-
+# BACKLOG
 
 ## INFRASTRUCTURE
 
@@ -17,7 +17,6 @@
 - [ ] srv_bras
 
 - [ ] srv_netflow
-- [ ] srv_voip
 - [ ] srv_email
 - [ ] srv_vnc
 - [ ] srv_pxe
