@@ -1,4 +1,4 @@
-# My Portfolio Projects
+# My Projects
 
 This repository contains a list of computer skills that I have had professional experience with.
 
