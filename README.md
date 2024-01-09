@@ -17,7 +17,7 @@ I'm developing projects to help me and simplify the installation and configurati
 - [x] [srv_itsm](https://github.com/rick0x00/srv_itsm) - My Tool to create ITSM Servers
 - [x] [srv_voip](https://github.com/rick0x00/srv_voip) - My Tool to create VoIP Servers
 - [x] [srv_ntp](https://github.com/rick0x00/srv_ntp) - My Tool to create NTP Servers
-- [x] [srv_wordpress](https://github.com/rick0x00/srv_wordpress) - My Tool to create WordPress Servers
+- [x] [srv_cms](https://github.com/rick0x00/srv_cms) - My Tool to create CMS Servers
 - [x] [srv_web](https://github.com/rick0x00/srv_web) - My Tool to create WEB Servers
 
 ### Network
