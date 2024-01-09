@@ -8,14 +8,17 @@ I'm developing projects to help me and simplify the installation and configurati
 
 ### Servers
 
-- [x] [srv_dns](https://github.com/rick0x00/srv_dns) - My script to help in creation of DNS servers
-- [x] [srv_files](https://github.com/rick0x00/srv_files) - My Tool to Create File servers
-- [x] [srv_ldap](https://github.com/rick0x00/srv_ldap) - My script to help in creation of LDAP Server
-- [x] [srv_phpipam](https://github.com/rick0x00/srv_phpipam) - Tool to simplify installation of phpIPAM Server
-- [x] [srv_monitoring](https://github.com/rick0x00/srv_monitoring) - Tool to simplify Creation of monitoring servers
-- [x] [srv_vpn](https://github.com/rick0x00/srv_vpn) - Tool to simplify Creation VPN Servers
-- [x] [srv_itsm](https://github.com/rick0x00/srv_itsm) - My Tool to help for create ITSM Servers
-- [x] [srv_voip](https://github.com/rick0x00/srv_voip) - My tool to help create and configure basic VoIP servers
+- [x] [srv_dns](https://github.com/rick0x00/srv_dns) - My Tool to create DNS Servers
+- [x] [srv_files](https://github.com/rick0x00/srv_files) - My Tool to create File Servers
+- [x] [srv_ldap](https://github.com/rick0x00/srv_ldap) - My Tool to create LDAP Servers
+- [x] [srv_phpipam](https://github.com/rick0x00/srv_phpipam) - My Tool to create phpIPam Servers
+- [x] [srv_monitoring](https://github.com/rick0x00/srv_monitoring) - TMy Tool to create Monitoring Servers
+- [x] [srv_vpn](https://github.com/rick0x00/srv_vpn) - My Tool to create VPN Servers
+- [x] [srv_itsm](https://github.com/rick0x00/srv_itsm) - My Tool to create ITSM Servers
+- [x] [srv_voip](https://github.com/rick0x00/srv_voip) - My Tool to create VoIP Servers
+- [x] [srv_ntp](https://github.com/rick0x00/srv_ntp) - My Tool to create NTP Servers
+- [x] [srv_wordpress](https://github.com/rick0x00/srv_wordpress) - My Tool to create WordPress Servers
+- [x] [srv_web](https://github.com/rick0x00/srv_web) - My Tool to create WEB Servers
 
 ### Network
 

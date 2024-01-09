@@ -7,7 +7,6 @@
 - [ ] srv_logs
 - [ ] srv_ad-dc
 - [ ] srv_proxy
-- [ ] srv_web
 - [ ] srv_db
 - [ ] srv_ipsec
 - [ ] srv_rpki
@@ -20,7 +19,6 @@
 - [ ] srv_email
 - [ ] srv_vnc
 - [ ] srv_pxe
-- [ ] srv_ntp
 - [ ] srv_backup
 - [ ] srv_cluster
 - [ ] srv_containers
@@ -32,12 +30,14 @@
 - [ ] srv_ldap_manager
 
 - [ ] srv_proxmox
-- [ ] srv_omv
+- [ ] srv_omv(OpenMediaVault)
+- [ ] srv_truenas
+- [ ] srv_unraid
 - [ ] srv_speedtest
 - [ ] srv_simet
 - [ ] srv_nextcloud
-- [ ] srv_wordpress
 - [ ] srv_avahi
+- [ ] srv_drbl
 
 ### Network
 
