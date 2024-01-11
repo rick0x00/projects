@@ -19,6 +19,7 @@ I'm developing projects to help me and simplify the installation and configurati
 - [x] [srv_ntp](https://github.com/rick0x00/srv_ntp) - My Tool to create NTP Servers
 - [x] [srv_cms](https://github.com/rick0x00/srv_cms) - My Tool to create CMS Servers
 - [x] [srv_web](https://github.com/rick0x00/srv_web) - My Tool to create WEB Servers
+- [x] [srv_db](https://github.com/rick0x00/srv_db) - My Tool to create DATABASE Servers
 
 ### Network
 
