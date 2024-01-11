@@ -7,7 +7,6 @@
 - [ ] srv_logs
 - [ ] srv_ad-dc
 - [ ] srv_proxy
-- [ ] srv_db
 - [ ] srv_ipsec
 - [ ] srv_rpki
 - [ ] srv_tr-069
@@ -38,6 +37,8 @@
 - [ ] srv_nextcloud
 - [ ] srv_avahi
 - [ ] srv_drbl
+- [ ] srv_fail2ban
+- [ ] srv_firewall
 
 ### Network
 
