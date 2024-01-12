@@ -39,6 +39,14 @@
 - [ ] srv_drbl
 - [ ] srv_fail2ban
 - [ ] srv_firewall
+- [ ] srv_DRBL
+- [ ] srv_ssh
+- [ ] srv_rpki
+- [ ] srv_nfdump
+- [ ] srv_graylog
+- [ ] srv_ElasticSearch
+- [ ] srv_prometheus
+- [ ] srv_grafana
 
 ### Network
 
