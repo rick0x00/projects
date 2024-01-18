@@ -20,6 +20,9 @@ I'm developing projects to help me and simplify the installation and configurati
 - [x] [srv_cms](https://github.com/rick0x00/srv_cms) - My Tool to create CMS Servers
 - [x] [srv_web](https://github.com/rick0x00/srv_web) - My Tool to create WEB Servers
 - [x] [srv_db](https://github.com/rick0x00/srv_db) - My Tool to create DATABASE Servers
+- [x] [srv_ips](https://github.com/rick0x00/srv_ips) - My Tool to create IPS Servers
+- [x] [srv_ssh](https://github.com/rick0x00/srv_ssh) - My Tool to create SSH Servers
+
 
 ### Network
 
