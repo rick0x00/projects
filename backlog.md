@@ -20,7 +20,6 @@
 - [ ] srv_pxe
 - [ ] srv_backup
 - [ ] srv_cluster
-- [ ] srv_containers
 - [ ] srv_email
 - [ ] srv_git
 - [ ] srv_apache_guacamole
